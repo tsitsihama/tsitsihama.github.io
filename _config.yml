@@ -26,76 +26,76 @@ urls:
 
 author_logo: profile.png
 author: Tsitsi Hama
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
+author_bio: Hi, my name is Tsitsi Hama. I built this site using devlopr-jekyll :D
 author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author_location: Nelspruit,South Africa
+author_website_url: "https://tsitsihama.github.io"
+typewrite-text:   I’m  a data engineer, technical writer, and lifelong learner
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: Talent Africa
+              company_logo: 
+              company_url: 
+              designation: Data Engineer
+              description: Worked on various Data Engineer Projects
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: IWR Water Resources
+              company_logo: https://www.waterresources.co.za/images/logo.jpg
+              company_url: 
+              designation: Data Engineer
+              description: Created and Mentained the Datapipelines
               visibility: true
 
 # Education
-author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
-                visibility: true
+# author_education_details:
+#               - college_logo: mit.png
+#                 college_name: MIT
+#                 college_url: https://mit.org
+#                 college_degree: CS Engineer
+#                 description: Bachelor of Technology
+#                 visibility: true
 
 # Projects
-author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
-                visibility: true
+# author_project_details:
+#               - project_thumbnail: gamershub.png
+#                 project_title: Gamers Hub
+#                 project_description: A Platform built for Gamers and Game Devs
+#                 project_url: https://gamershub.in
+#                 visibility: true
+#               - project_thumbnail: hack4r.PNG
+#                 project_title: Hack4r
+#                 project_description: A Platform built for Hackers and Penetration Testers
+#                 project_url: https://hack4r.com
+#                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username:
+github_username: tsitsihama
+facebook_username: 
+linkedin_username: 
+behance_username: 
+instagram_username: 
+medium_username: 
+telegram_username: 
+dribbble_username: 
+flickr_username: 
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
-# disqus_shortname: sujay-kundu
+# disqus_shortname: 
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username:
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+mailchimp_form_url: 
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+formspree_email: tsitsihama@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: devlopr
