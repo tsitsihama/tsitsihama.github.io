@@ -10,14 +10,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 urls:
     - text: Home
       url: /
-    - text: About
-      url: /about
+
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
+
     - text: Contact
       url : /contact
 
@@ -27,7 +23,7 @@ urls:
 author_logo: profile.png
 author: Tsitsi Hama
 author_bio: Hi, my name is Tsitsi Hama. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
+author_email: "tsitsihama@gmail.com"
 author_location: Nelspruit,South Africa
 author_website_url: "https://tsitsihama.github.io"
 typewrite-text:   I’m  a data engineer, technical writer, and lifelong learner
